@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Real time more faster than sort3 (sorted5000.txt - 0.042s).
+
+sort2 uses: Merge Sort
+
+How do you know?: Real time more faster than sort1 and sort3 (random5000.txt - 0.051s).
+
+sort3 uses: Selection Sort
+
+How do you know?: Real time less faster than sort1 and sort2 (random5000.txt - 0.066s, sorted5000.txt - 0.069s).
